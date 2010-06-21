@@ -1,0 +1,12 @@
+Source: tuquito-gnome-icons-extras
+Section: gnome
+Priority: extra
+Maintainer: Mario Colque <mario@tuquito.org.ar>
+Build-Depends: debhelper (>= 7)
+Standards-Version: 3.8.1
+
+Package: tuquito-gnome-icons-extras
+Architecture: all
+Description: Iconos extras de gnome para Tuquito
+ Colección de Iconos extras (Humanities) de gnome desarrollados por la comunidad para Tuquito
+ * Tuquito Team! - 2010
